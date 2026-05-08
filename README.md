@@ -145,7 +145,7 @@ DiaSugar is an intelligent mobile application developed using Flutter and Fireba
 
 ---
 
-# Additional Features
+# Interactive Task System
 
 <p float="left">
   <img src="tasks1.png" width="250"/>
