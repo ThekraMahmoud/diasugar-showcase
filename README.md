@@ -1,7 +1,6 @@
 # DiaSugar – Smart Diabetes Management Application
 
-DiaSugar is an intelligent mobile application developed using Flutter and Firebase to support diabetes management through real-time monitoring, communication, and personalized healthcare features.
-
+DiaSugar is a smart healthcare mobile application developed using Flutter and Firebase to support real-time diabetes management and improve patient-doctor communication.
 ---
 
 # Project Poster
