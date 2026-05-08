@@ -37,113 +37,120 @@ DiaSugar is an intelligent mobile application developed using Flutter and Fireba
 
 # Login & Registration
 
-![Login](login.png)
-
-![Doctor Register](d%20regster.png)
-
-![Patient Register](p%20regster.png)
+<p float="left">
+  <img src="login.png" width="250"/>
+  <img src="d%20regster.png" width="250"/>
+  <img src="p%20regster.png" width="250"/>
+</p>
 
 ---
 
 # Doctor Interface
 
-![Doctor Home](dr%20home.png)
+<p float="left">
+  <img src="dr%20home.png" width="250"/>
+  <img src="dr%20home2.png" width="250"/>
+  <img src="dr%20chat.png" width="250"/>
+</p>
 
-![Doctor Dashboard](dr%20home2.png)
+<p float="left">
+  <img src="dr%20appoint.png" width="250"/>
+  <img src="dr%20appoint2.png" width="250"/>
+  <img src="dr%20new%20appoin.png" width="250"/>
+</p>
 
-![Doctor Chat](dr%20chat.png)
+<p float="left">
+  <img src="dr%20requests%20page.png" width="250"/>
+  <img src="dr%20patients%20list.png" width="250"/>
+  <img src="dr%20profile.png" width="250"/>
+</p>
 
-![Doctor Appointments](dr%20appoint.png)
-
-![Doctor Appointments 2](dr%20appoint2.png)
-
-![Doctor New Appointment](dr%20new%20appoin.png)
-
-![Doctor Requests](dr%20requests%20page.png)
-
-![Doctor Patients](dr%20patients%20list.png)
-
-![Doctor Profile](dr%20profile.png)
-
-![Doctor Settings](dr%20setting.png)
-
-![Doctor More](dr%20more%20page.png)
+<p float="left">
+  <img src="dr%20setting.png" width="250"/>
+  <img src="dr%20more%20page.png" width="250"/>
+</p>
 
 ---
 
 # Adult Patient Interface
 
-![Adult Home](adult%20P%20home.png)
+<p float="left">
+  <img src="adult%20P%20home.png" width="250"/>
+  <img src="adult%20P%20home2.png" width="250"/>
+  <img src="adult%20P%20appoi.png" width="250"/>
+</p>
 
-![Adult Home 2](adult%20P%20home2.png)
+<p float="left">
+  <img src="AP%20readings.png" width="250"/>
+  <img src="AP%20,%20medicines%20page.png" width="250"/>
+  <img src="AP%20,%20meals.png" width="250"/>
+</p>
 
-![Adult Appointment](adult%20P%20appoi.png)
+<p float="left">
+  <img src="AP%20,%20activity.png" width="250"/>
+  <img src="AP%20,%20add%20meal.png" width="250"/>
+  <img src="AP%20,%20add%20medicine.png" width="250"/>
+</p>
 
-![Adult Readings](AP%20readings.png)
+<p float="left">
+  <img src="AP,%20add%20medi%202.png" width="250"/>
+  <img src="AP%20,%20choose%20dr%20page.png" width="250"/>
+  <img src="AP,%20profile.png" width="250"/>
+</p>
 
-![Adult Medicines](AP%20,%20medicines%20page.png)
-
-![Adult Meals](AP%20,%20meals.png)
-
-![Adult Activity](AP%20,%20activity.png)
-
-![Adult Add Meal](AP%20,%20add%20meal.png)
-
-![Adult Add Medicine](AP%20,%20add%20medicine.png)
-
-![Adult Add Medicine 2](AP,%20add%20medi%202.png)
-
-![Adult Doctor Selection](AP%20,%20choose%20dr%20page.png)
-
-![Adult Profile](AP,%20profile.png)
-
-![Adult Chat](A%20,%20P%20,chat.png)
+<p float="left">
+  <img src="A%20,%20P%20,chat.png" width="250"/>
+</p>
 
 ---
 
 # Child Interface
 
-![Child Home](CP,home.png)
+<p float="left">
+  <img src="CP,home.png" width="250"/>
+  <img src="cp,home2.png" width="250"/>
+  <img src="cp,%20tasks.png" width="250"/>
+</p>
 
-![Child Home 2](cp,home2.png)
+<p float="left">
+  <img src="cp%20reading.png" width="250"/>
+  <img src="cp%20,%20appoin.png" width="250"/>
+  <img src="cp,%20chat.png" width="250"/>
+</p>
 
-![Child Tasks](cp,%20tasks.png)
+<p float="left">
+  <img src="cp%20,%20add%20meal.png" width="250"/>
+  <img src="cp%20,%20add%20task%20-%20medic.png" width="250"/>
+  <img src="Cp%20,%20choose%20dr.png" width="250"/>
+</p>
 
-![Child Reading](cp%20reading.png)
-
-![Child Appointment](cp%20,%20appoin.png)
-
-![Child Chat](cp,%20chat.png)
-
-![Child Add Meal](cp%20,%20add%20meal.png)
-
-![Child Add Medicine Task](cp%20,%20add%20task%20-%20medic.png)
-
-![Child Doctor Selection](Cp%20,%20choose%20dr.png)
-
-![Child Profile](cp%20,%20profile.png)
-
-![Child Settings](cp,settings.png)
+<p float="left">
+  <img src="cp%20,%20profile.png" width="250"/>
+  <img src="cp,settings.png" width="250"/>
+</p>
 
 ---
 
 # Admin Dashboard
 
-![Admin Home](admin%20home.png)
+<p float="left">
+  <img src="admin%20home.png" width="250"/>
+  <img src="admin%20home2.png" width="250"/>
+  <img src="admin%20home3.png" width="250"/>
+</p>
 
-![Admin Home 2](admin%20home2.png)
-
-![Admin Home 3](admin%20home3.png)
-
-![Admin Management](admin%20,%20dr%20manage.png)
+<p float="left">
+  <img src="admin%20,%20dr%20manage.png" width="250"/>
+</p>
 
 ---
 
 # Additional Features
 
-![Tasks](tasks1.png)
-
-![Writing](witing.png)
+<p float="left">
+  <img src="tasks1.png" width="250"/>
+  <img src="witing.png" width="250"/>
+</p>
 
 ---
 
