@@ -6,9 +6,7 @@ DiaSugar is an intelligent mobile application developed using Flutter and Fireba
 
 # Project Poster
 
-![Poster](images/poster.png)
-
-[View Full Poster PDF](images/Poster.pdf)
+[View Full Poster PDF](Poster.pdf)
 
 ---
 
@@ -37,47 +35,115 @@ DiaSugar is an intelligent mobile application developed using Flutter and Fireba
 
 ---
 
+# Login & Registration
+
+![Login](login.png)
+
+![Doctor Register](d%20regster.png)
+
+![Patient Register](p%20regster.png)
+
+---
+
 # Doctor Interface
 
-![Doctor Home](images/dr home.png)
+![Doctor Home](dr%20home.png)
 
-![Doctor Chat](images/dr chat.png)
+![Doctor Dashboard](dr%20home2.png)
 
-![Doctor Appointments](images/dr appoint.png)
+![Doctor Chat](dr%20chat.png)
 
-![Doctor Patients](images/dr patients list.png)
+![Doctor Appointments](dr%20appoint.png)
+
+![Doctor Appointments 2](dr%20appoint2.png)
+
+![Doctor New Appointment](dr%20new%20appoin.png)
+
+![Doctor Requests](dr%20requests%20page.png)
+
+![Doctor Patients](dr%20patients%20list.png)
+
+![Doctor Profile](dr%20profile.png)
+
+![Doctor Settings](dr%20setting.png)
+
+![Doctor More](dr%20more%20page.png)
 
 ---
 
 # Adult Patient Interface
 
-![Adult Home](images/adult P home.png)
+![Adult Home](adult%20P%20home.png)
 
-![Adult Readings](images/AP readings.png)
+![Adult Home 2](adult%20P%20home2.png)
 
-![Adult Medicines](images/AP , medicines page.png)
+![Adult Appointment](adult%20P%20appoi.png)
 
-![Adult Doctor Selection](images/AP , choose dr page.png)
+![Adult Readings](AP%20readings.png)
+
+![Adult Medicines](AP%20,%20medicines%20page.png)
+
+![Adult Meals](AP%20,%20meals.png)
+
+![Adult Activity](AP%20,%20activity.png)
+
+![Adult Add Meal](AP%20,%20add%20meal.png)
+
+![Adult Add Medicine](AP%20,%20add%20medicine.png)
+
+![Adult Add Medicine 2](AP,%20add%20medi%202.png)
+
+![Adult Doctor Selection](AP%20,%20choose%20dr%20page.png)
+
+![Adult Profile](AP,%20profile.png)
+
+![Adult Chat](A%20,%20P%20,chat.png)
 
 ---
 
 # Child Interface
 
-![Child Home](images/CP,home.png)
+![Child Home](CP,home.png)
 
-![Child Tasks](images/cp, tasks.png)
+![Child Home 2](cp,home2.png)
 
-![Child Reading](images/cp reading.png)
+![Child Tasks](cp,%20tasks.png)
 
-![Child Chat](images/cp, chat.png)
+![Child Reading](cp%20reading.png)
+
+![Child Appointment](cp%20,%20appoin.png)
+
+![Child Chat](cp,%20chat.png)
+
+![Child Add Meal](cp%20,%20add%20meal.png)
+
+![Child Add Medicine Task](cp%20,%20add%20task%20-%20medic.png)
+
+![Child Doctor Selection](Cp%20,%20choose%20dr.png)
+
+![Child Profile](cp%20,%20profile.png)
+
+![Child Settings](cp,settings.png)
 
 ---
 
 # Admin Dashboard
 
-![Admin Home](images/admin home.png)
+![Admin Home](admin%20home.png)
 
-![Admin Management](images/admin , dr manage.png)
+![Admin Home 2](admin%20home2.png)
+
+![Admin Home 3](admin%20home3.png)
+
+![Admin Management](admin%20,%20dr%20manage.png)
+
+---
+
+# Additional Features
+
+![Tasks](tasks1.png)
+
+![Writing](witing.png)
 
 ---
 
